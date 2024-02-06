@@ -1,0 +1,6 @@
+@Infomedia.Server_HostAddress = http://localhost:5283
+
+GET {{Infomedia.Server_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

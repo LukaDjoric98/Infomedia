@@ -1,0 +1,10 @@
+<form [formGroup]="entityForm" (ngSubmit)="onSubmit()">
+
+    <label for="msisdn">MSISDN (mobile telephone number): </label>
+    <input id="msisdn" type="text" formControlName="msisdn">
+    <br>
+    <label for="pin">PIN: </label>
+    <input id="pin" type="text" formControlName="pin">
+    <br>
+    <button type="submit">Submit</button><br>
+  </form>

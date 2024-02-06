@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34525.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Infomedia.Server", "Infomedia.Server\Infomedia.Server.csproj", "{6710CC4F-8A82-40FD-9185-F0A013C600D3}"
+EndProject
+Project("{54A90642-561A-4BB1-A94E-469ADEE60C69}") = "infomedia.client", "infomedia.client\infomedia.client.esproj", "{77955E56-18C9-40BA-BB1B-FEB4A8F03352}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6710CC4F-8A82-40FD-9185-F0A013C600D3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6710CC4F-8A82-40FD-9185-F0A013C600D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6710CC4F-8A82-40FD-9185-F0A013C600D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6710CC4F-8A82-40FD-9185-F0A013C600D3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{77955E56-18C9-40BA-BB1B-FEB4A8F03352}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77955E56-18C9-40BA-BB1B-FEB4A8F03352}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77955E56-18C9-40BA-BB1B-FEB4A8F03352}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{77955E56-18C9-40BA-BB1B-FEB4A8F03352}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77955E56-18C9-40BA-BB1B-FEB4A8F03352}.Release|Any CPU.Build.0 = Release|Any CPU
+		{77955E56-18C9-40BA-BB1B-FEB4A8F03352}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F1F4E243-1655-4EB3-AF98-5D3A64EAE935}
+	EndGlobalSection
+EndGlobal
